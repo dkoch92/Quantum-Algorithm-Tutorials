@@ -2,7 +2,9 @@
 This collection of Juypter Notebook files is designed as a teaching guide for someone interested in learning the basics of quantum algorithms.  The code used for these lessons come from the following quantum languages:
 
 **Rigetti:** PyQuil  -- link
+
 **IBM:**     QisKit  -- link
+
 **ProjectQ**       -- Link
 
 All of the tutorials provided here come in all three of these major quantum languages, so feel free to use whichever lanague you are most interested in.  If for some reason one of the languages isn't work properly (as they tend to update their syntax regularly), I encourage you to explore the other languages as backups.  All of the tutorials are exactly the same, so learning the core ideas using one language should translate very seemlessly to the other two, once you understand each language's syntax.
@@ -24,7 +26,7 @@ Once you have Anaconda, or another Python IDE up and running, download all of th
 
 For a full guide in setting up each language, please watch the following video:
 
-~link to setup video~
+link to setup video
 
 ## Reccomended Starting Point
 
