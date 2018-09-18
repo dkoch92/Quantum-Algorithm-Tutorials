@@ -23,7 +23,7 @@ Once you have Anaconda, or another Python IDE up and running, download all of th
 
 **1)** You should create seperate working diretories (folders) for each quantum language.  This way each language can call upon the proper files and run as intended.  
 
-**2)** In each given folder for the three languages, make sure that all of the python files be stored in the correct location location, so that the tutorial files created for these lessons can call upon each language correctly.
+**2)** In each given folder for the three languages, make sure that all of the python files are stored in the correct location, so that the tutorial files created for these lessons can call upon each language correctly.
 
 For a full guide in setting up each language, please watch the following video:
 
