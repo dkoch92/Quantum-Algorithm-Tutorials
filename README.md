@@ -19,7 +19,8 @@ The code requires Python 3.5 or higher
 
 Once you have Anaconda, or another Python IDE up and running, download all of the python files and put them together in a location somwhere on your computer. For example, store them in a folder on your desktop labeled "Quantum Algorithms".
 
-**Two important notes here:**
+**Two important notes :**
+
 **1)** You should create seperate working diretories (folders) for each quantum language.  This way each language can call upon the proper files and run as intended.  
 
 **2)** In each given folder for the three languages, make sure that all of the python files be stored in the correct location location, so that the tutorial files created for these lessons can call upon each language correctly.
